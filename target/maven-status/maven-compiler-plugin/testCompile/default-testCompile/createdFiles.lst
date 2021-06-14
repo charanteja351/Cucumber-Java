@@ -1,0 +1,3 @@
+automation/cucumber/stepdefinitions/Loginstepdefinitions.class
+automation/cucumber/testrunner/TestRunner.class
+automation/cucumber/stepdefinitions/CommonStepdefinitions.class

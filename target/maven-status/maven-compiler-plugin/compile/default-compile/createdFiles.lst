@@ -1,0 +1,9 @@
+PageObjects/MyAccount.class
+PageObjects/Calculator.class
+CommonUtilities/Common.class
+automation/selenium/managers/TestContext.class
+CommonUtilities/ConfigFileReader.class
+automation/selenium/managers/PageObjectManager.class
+PageObjects/Login.class
+automation/selenium/managers/WebDriverManager.class
+PageObjects/CommonPage.class
