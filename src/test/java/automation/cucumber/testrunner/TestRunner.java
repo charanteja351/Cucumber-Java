@@ -9,7 +9,7 @@ import com.cucumber.listener.*;
 glue = {"automation/cucumber/stepdefinitions"},
 plugin = { "pretty",
 		"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html",},
-tags= {"@test"}, monochrome = true, dryRun = false)
+tags= {"@smoke"}, monochrome = true, dryRun = false)
 
 public class TestRunner extends AbstractTestNGCucumberTests {
 	
